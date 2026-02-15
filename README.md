@@ -44,7 +44,7 @@ streamlit run app.py
 
 handwritten-digit-recognition/handwritten digit project/
 │
-├─ MNIST_ANN.ipynb 
+├─ ANN_mnist.ipynb 
 ├─ app.py
 ├─ model.h5
 ├─ requirements.txt
