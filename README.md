@@ -42,12 +42,14 @@ pip install -r requirements.txt
 Run the Streamlit app:
 streamlit run app.py
 
-handwritten-digit-recognition/
+handwritten-digit-recognition/handwritten digit project/
 │
-├─ app.py              # Streamlit app code
-├─ model.h5            # Trained ANN model
-├─ requirements.txt    # Dependencies
-├─ README.md           # This file
+├─ MNIST_ANN.ipynb 
+├─ app.py
+├─ model.h5
+├─ requirements.txt
+├─ README.md
+
 
 Notes
 
